@@ -29,7 +29,7 @@ const operate = function(statement, firstValue, secondValue){
     }
 };
 
-const firstValue = prompt('pass the first number');
-const secondValue = prompt('pass the second number');
-const statement = prompt('pass the operator');
-console.log(operate(statement, firstValue, secondValue));
+// const firstValue = prompt('pass the first number');
+// const secondValue = prompt('pass the second number');
+// const statement = prompt('pass the operator');
+// console.log(operate(statement, firstValue, secondValue));
