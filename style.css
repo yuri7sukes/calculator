@@ -28,6 +28,7 @@ body {
     border-top: 10px solid rgb( 47,  79,  79);
     min-width: 0;
     padding-right: 10px;
+    padding-top: 20px;
     
 }
 
@@ -71,3 +72,7 @@ body {
     background-color: #fff;
 }
 
+button {
+    border: 0;
+    font-size: 38px;
+}
